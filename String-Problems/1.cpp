@@ -1,4 +1,4 @@
-//Char array
+// Print 3rd character from string array
 #include<iostream>
 using namespace std;
 
