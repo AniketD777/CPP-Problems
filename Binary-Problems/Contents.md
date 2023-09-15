@@ -17,3 +17,5 @@
 8.cpp => To find unpaired elements present(For two single elements) 
 
 9.cpp => To search for the unpaired element within pair of three elements(Eg.[1,1,1,2,2,2,3])
+
+10.cpp => To calculate 'a' to the power 'b'
