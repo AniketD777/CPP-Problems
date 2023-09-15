@@ -37,3 +37,11 @@
 18.cpp => Right view of binary tree
 
 19.cpp => Right view of binary tree
+
+20.cpp => Left View of binary tree
+
+21.cpp => Shortest distance between any two nodes of the binary tree
+
+22.cpp => Lowest Common Ancestor (LCA)
+
+23.cpp => LCA => Optimized approach
