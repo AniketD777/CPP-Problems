@@ -5,7 +5,7 @@ using namespace std;
 
 int fac(int x)
 {
-  int prod=x;  //This factorial method doesn't work for 0! (Refer 6.2.5)
+  int prod=x;  //This factorial method doesn't work for 0! (Refer 8.cpp)
   for(int i=1;i<x;i++)
   {
    prod*=i;
