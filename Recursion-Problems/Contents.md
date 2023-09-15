@@ -17,3 +17,25 @@
 8.cpp => Check first and last occurrence
 
 9.cpp => Reverse a string
+
+11.cpp => Replace with '3.14' for 'pi' in string
+
+12.cpp => Tower of Hanoi problem
+
+13.cpp => To remove consecutive duplicates
+
+14.cpp => To move all 'x' at the end of string
+
+15.cpp => To print all subsequences of a string
+
+16.cpp => To print two keypad keys combination together
+
+17.cpp => To print permutation of a string 
+
+18.cpp => Find no. of ways in a matrix
+
+19.cpp => To find ways to set 2x1 tile on a 2xn floor
+
+20.cpp => No. of ways to pair or keep single the individuals
+
+21.cpp => Robbery problem - Maximise items value for constrained weight
